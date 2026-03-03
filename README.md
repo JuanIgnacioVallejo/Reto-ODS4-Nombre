@@ -20,3 +20,7 @@ Los problemas que se resuelven:
 1. Desorganización de materiales.
 2. Falta de seguimiento individual.
 3. Poca práctica guiada con feedback real.
+
+### 3. El Prototipo:
+![Screenshot](screenshot.jpg)
+
