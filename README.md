@@ -24,3 +24,5 @@ Los problemas que se resuelven:
 ### 3. El Prototipo:
 ![Screenshot](screenshot.jpg)
 
+### 4. Impacto Sostenible
+Se reduce la la cantidad de papel necesario con el uso de una plataforma digital y se reduce la carga de subir contenido individual si ya existe y es accesible a todo el mundo.
